@@ -3,9 +3,9 @@
   "name": "Orbit B-hyve",
   "codeowners": ["@wnmelhiser"],
   "config_flow": true,
-  "documentation": "https://github.com/wnmelhiser/bhyve-home-assistant/blob/main/README.md",
+  "documentation": "https://github.com/Melhiser-Olson-Home/bhyve-home-assistant/blob/main/README.md",
   "integration_type": "hub",
   "iot_class": "cloud_push",
-  "issue_tracker": "https://github.com/wnmelhiser/bhyve-home-assistant/issues",
+  "issue_tracker": "https://github.com/Melhiser-Olson-Home/bhyve-home-assistant/issues",
   "version": "4.2.1"
 }
